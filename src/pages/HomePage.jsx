@@ -26,7 +26,7 @@ const HomePage = () => {
                 Uplift Life Through Faith and Action
                 </h1>
                 <h4 className='hero__sub__head text-center'>Nurturing Stronger Communities with Purpose</h4>
-                <div className="row hero__content p-3 p-md-5 ">
+                <div className="row hero__content p-3 p-md-4  ">
                     <div className=" col-md-6">
                         <h5 className='about__us__head' >ABOUT US</h5>
                         

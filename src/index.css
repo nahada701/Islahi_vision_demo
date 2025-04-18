@@ -4,6 +4,7 @@
   font-family: "Manrope", sans-serif;
   box-sizing: border-box;
 }
+
 .action__link__nav{
   border-top: 5px solid #00a62c;
   margin-bottom: 4px !important;
@@ -34,13 +35,13 @@
   background-position: center;
   background-size:cover;
   color: rgb(16, 1, 1);
-  padding: 20px 20px 15vh;
+  padding: 0px 20px 15vh;
 
 }
 .hero__main__head{
   font-size: 3vw;
   color: rgb(230, 230, 230);
-  padding-top: 10vw;
+  padding-top: 8vw;
 }
 @media (max-width:676px) {
   .hero__main__head{
@@ -103,7 +104,7 @@
   padding: 0px 50px;
 }
 .mission__para{
-  font-size: 18px;
+  font-size: 15px;
 }
 .join__btn__green{
   border: none;
@@ -238,7 +239,7 @@ li{
 }
 .social__media__links > *{
   background-color: rgba(238, 161, 144, 0.393) ;
-  padding: 10px;
+  padding: 8px;
   border-radius: 50%;
   font-size: 30px;
 

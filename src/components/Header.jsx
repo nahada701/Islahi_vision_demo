@@ -8,11 +8,11 @@ const Header = () => {
 
 
   return (
-    <div className='header w-100' >
+    <div className='header  w-100' >
       <Navbar expand="lg" className="bg-body-tertiary">
         <Container>
           <Navbar.Brand href="#home">
-            <img src={logo} alt="" width={"80px"} />
+            <img src={logo} alt="" width={"60px"} />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
